@@ -4,12 +4,6 @@ webRainbow uses an Arduino (or seeeduino or compatible devices) with an Ethernet
 
 The package include all the software needed to build the project: a customized arduino's firmware a new raibowduino's firmware and the php program.
 
-The first beta version will be available soon.
-(The development source code is now available from svn).
-Stay tuned!
-
-GiaGT - giagtnet-[at](at.md)-gmail.com
-
 ![http://webrainbow.googlecode.com/files/1.jpg](http://webrainbow.googlecode.com/files/1.jpg)
 
 
